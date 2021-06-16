@@ -1,7 +1,7 @@
 
-
-var name = prompt("What is name of car you want ?")
-alert("welcome to Cars website " + name)
+alert("Welcome to our website")
+var name = prompt("What is your favorite car?")
+alert("This is your favorite car" + name)
 
 var Carwant = prompt("what is your fav car from these (SEDAN, Sport Car , Coupe)?")
 
